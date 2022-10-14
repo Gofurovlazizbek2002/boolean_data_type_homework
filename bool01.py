@@ -1,4 +1,4 @@
-from re import S
+
 
 
 def main(a,b):
@@ -13,4 +13,4 @@ def main(a,b):
     """
     # Write your code here
     return a>=b
-print(main(4,4))
+print(main(6,5))

@@ -5,6 +5,6 @@ def main(b):
     Returns:
         bool
     """
-    # Write your code here
-    return b==0
+    # Write your code hered
+    return b>0
 print(main(1))

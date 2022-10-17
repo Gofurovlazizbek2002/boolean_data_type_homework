@@ -1,4 +1,4 @@
 def main(a):
- return a%2<=0
-print(main(7))
+ return a==7
+print(main(5))
   

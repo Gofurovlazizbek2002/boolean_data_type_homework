@@ -7,4 +7,4 @@ def main(a):
     """
     # Write your code here
     return a>0
-print(main(3))
+print(main(9))

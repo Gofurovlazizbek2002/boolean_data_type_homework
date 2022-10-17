@@ -1,4 +1,4 @@
-def main(a,b):
- return a==b
-print(main(3,1))
+def main(a):
+ return a
+print(main(7))
   
